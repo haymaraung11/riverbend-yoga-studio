@@ -45,6 +45,14 @@ header p {
     margin: 0.6rem auto 0;
 }
 
+header .studio-logo {
+    display: block;
+    width: 76px;
+    height: 76px;
+    object-fit: contain;
+    margin: 0 auto 0.75rem;
+}
+
 nav {
     background: var(--white);
     border-bottom: 3px solid var(--orange);
